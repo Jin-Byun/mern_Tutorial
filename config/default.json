@@ -1,0 +1,4 @@
+{
+  "mongoURI":
+  "mongodb+srv://jbyun10:GalaxyS20FE@cluster0.pred7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
